@@ -1,0 +1,1 @@
+https://discuss.hashicorp.com/t/what-is-the-best-practice-to-run-a-user-provided-ps1-script-as-cloud-init-script-on-a-windows-vm-module/12781
